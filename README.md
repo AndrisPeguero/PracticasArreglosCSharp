@@ -18,4 +18,4 @@ Permite ingresar una matriz manualmente, mostrarla y determinar el valor máximo
 Ambos programas tienen complejidad **O(n × m)** en tiempo y **O(n × m)** en espacio.
 
 ##  Autor
-**Andris Peguero**
+**Andry Peguero**
