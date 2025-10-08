@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        // Matriz de calificaciones: 4 estudiantes x 3 asignaturas
+        
         double[,] calificaciones = {
             { 85, 90, 78 },
             { 88, 92, 80 },
